@@ -24,3 +24,5 @@ git commit -m "Initial commit"
 Add connection to GitHub
 '''
 git remote add origin https://github.com/alissugh/CmdLineDemo.git
+
+git test
